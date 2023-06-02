@@ -20,7 +20,6 @@
   - [Contact](#contact)
   - [Acknowledgments](#acknowledgments)
 
-[You can also see the python/brownie version of this here.](https://github.com/brownie-mix/dao-mix)
 
 <!-- ABOUT THE PROJECT -->
 ## About
